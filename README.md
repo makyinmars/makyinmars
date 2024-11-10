@@ -17,7 +17,6 @@ pub fn main() !void {
             "JavaScript",
             "GraphQL",
             "Python",
-            "Go",
             "Lua",
         },
         .os = "Mac OS",
