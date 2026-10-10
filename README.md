@@ -2,4 +2,4 @@ i like building things that are useful and fun.
 
 try my latest bouldering app: [getcima.app](https://getcima.app)
 
-<img width="1315" height="818" alt="c8e94b503aef8c205da43f2561b05b3a3676b0690e4bf20f03a4734696082bf5" src="https://github.com/user-attachments/assets/a0623559-0e31-4fda-a1cb-68810bab547b" />
+<img width="1403" height="965" alt="image" src="https://github.com/user-attachments/assets/55b264f7-8c23-464c-bfa5-22bee7fab78c" />
